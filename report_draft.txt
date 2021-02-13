@@ -1,0 +1,94 @@
+# Introduction
+
+Have you ever dreamt of establishing your own restaurant or pub? I most definitely have. However, whether such establishment becomes successful depends on many factors, such as location, brand image, cuisine, competition… This notebook aims to provide assistance for deciding the location of such newly established hospitability unit in a more strategic manner in London taking into consideration competition, income, ethnicity distribution and average rent.
+
+# Business problem
+
+Let’s assume a hypothetical client who wishes to start their dream restaurant but doesn’t know where to start. They only know that they want it to be of Asian cuisine and the location must be in London. How could we help such client?
+
+The following factors/requirements were decided to consider:
+
+ 1. Granularity of the locational data: UK is divided into Boroughs.
+    However, there are other ways to divide the territory up. The smallest possible granularity was intended to be used given the project resources (my own PC).
+ 2. Population density: the more people nearby mean more prospective customers, therefore the most populous areas were intended to be used to provide recommendations within each geographical area.
+    
+ 2.  Overall competition: How many restaurants can be found in a
+    particular area? Is it already packed with such facilities catering
+    for the needs of the population of the neighbourhood or the
+    opposite?
+    
+    3. Within class competition: how many Asian restaurants can be found in
+    the neighbourhood? Percentage of Asian population: while London is
+    an intercultural city, it is though to be safe to assume that Asian
+    people are more likely to choose Asian meals than their non-Asian
+    counterparts.
+    
+    4. Average rent costs: if an area is too expensive to rent in, a
+    budding business might struggle to lay foot on the ground and stay
+    afloat. At the time of writing, London is under lockdown.
+    Restaurants are closed leaving their owners having to pay rent while
+    not having incomes unless have converted their operations to
+    “takeaway” which might not still be sufficient.
+    
+    6. Average income of the population: if the income of the population is
+    too low, while other factors favour a location, it might be worth
+    considering the opening of a more affordable restaurant.
+
+# Data
+## Granularity of the datasets
+The United Kingdom can be diveded up to different geographical areas based on a multitude of administrative purposes ([click here for more details](https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/england)). In order to perform accurate analytics, all the datasets intended to be used had to conform with the same geographical boundaries. 
+After an initial research, it was decided that the UK's [census geography](https://www.ons.gov.uk/methodology/geography/ukgeographies/censusgeography) would be used. According to census geography, the UK is divided into OAs (Output Areas). There are currently 181,408 OAs in the UK, which was regarded as a detail which could not be sufficiently handled given the resources of the project (however, should this be a real project, such granularity would be more than desirable). Therefore, instead, two levels up in the census geography hierarchy, Middle Layer Super Output Areas (MSOA) were used. There are only 7, 201 MSOAs in the UK with London accounting for 996 of such areas. This was deemed as a dataset easier to handle and perform analytics on.
+
+##  Statistical data sources:
+
+### Census data 2011
+While a lot can change in a country in 9 years, unfortunatelly, the most recent census data in the UK is dated at 2011. Not having any other alternative, the ethnicity proportion of each MSOA was decided based on this dataset.
+The dataset can be downloaded from [here](https://data.parliament.uk/resources/constituencystatistics/Ethnic-group.xlsx).
+### Income data 2018
+The latest MSOA based income statistics found were of 2018. This dataset was intended to provide guidance for deciding the prices in the restaurant's menu.
+The dataset can be downloaded from [here](https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/smallareaincomeestimatesformiddlelayersuperoutputareasenglandandwales/financialyearending2018/totalannualincome2018.csv).
+### Average rent data
+The dataset found had a LSOA or in other words, Borough-wise geographical division.  This dataset was intended to be used to provide guidance when it comes to the rent the propspective restaurant owner would have to pay. The most recent data is from 2019 in this dataset.
+The dataset can be downloaded from [here](https://data.london.gov.uk/download/average-private-rents-borough/73b9fb07-b5bb-4a53-88b7-c17269879a08/voa-average-rent-borough.xls).
+
+### MSOA TO LSOA mapping data
+Since the previous dataset discussed ("Average rent") is of LSOA granularity and the "census" dataset does not contain LSOA or Borough mappings, a lookup table which contained both LSOA and MSOA codes was needed in order to be able to join the datasets.
+The dataset can be downloaded from [here](https://data.london.gov.uk/download/average-private-rents-borough/73b9fb07-b5bb-4a53-88b7-c17269879a08/voa-average-rent-borough.xls).
+## Geographical data sources:
+### MSOA boundaries
+Since a future restaurant owner might be more concerned with recipes than figures, it was thought that the best way to present the results would be a choropleth map.
+These maps use geographical boundaries and each boundary is coloured according to the magnitude of the selected metric. For instance, if the selected metric was population and the color scheme was some variant of "Cool-Warm" (from blue to red), highly populated areas would be coloured in red while other less-populated ones closer to blue. One example on the USA's population can be seen [here](https://kieranhealy.org/blog/archives/2015/06/12/americas-ur-choropleths/). 
+The dataset holding Geographical boundary data for each MSOA can be downloaded from [here.](https://opendata.arcgis.com/datasets/826dc85fb600440889480f4d9dbb1a24_1.geojson)
+### FourSquare data
+In order to acquire data about competition entailing asian and every other type of hospitality unit, FourSquare's API was used. 
+For access to the API, please visit their [site](https://developer.foursquare.com/).
+### Population weighted MSOA centers
+In order to find the most populous locations within each MSOA, and provide the most relevant locations to the FourSquare API,  population weighted centers were used within each MSOA. These centers are placed in a way to represent the coordinates of the most populous areas within each area.
+The dataset can be downloaded from [here.](https://opendata.arcgis.com/datasets/b0a6d8a3dc5d4718b3fd62c548d60f81_0.geojson)
+# Methodology
+Data retrieval: responsees over just pd.read_csv
+Finding the proper sheet within a spreadsheet.
+Data processing: 
+Filtering down to London locations
+Feature selection
+"total_annual_income",
+                            "asian_population_percentage",
+                            "asian_hospitality_percentage",
+                            "pop_relative_hospitality_frequency",
+                            "average_rent
+Derived columns
+asian hospitality percentage
+pop_relative_hospitality_frequency
+Hopkins analytics
+Data scaling
+Finding the optimal number of clusters
+Elbow method and Silhouette_score
+Visual analysis
+Finding the optimal cluster
+Choropleth cluster analysis
+Weighted centroid map.
+Results
+Simple cluster analytical tool
+# Results
+# Discussion
+# Conclusion
