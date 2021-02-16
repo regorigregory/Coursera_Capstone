@@ -1,0 +1,461 @@
+Food icon
+Food
+4d4b7105d754a06374d81259
+
+Asian Restaurant icon
+Asian Restaurant
+4bf58dd8d48988d142941735
+
+Burmese Restaurant icon
+Burmese Restaurant
+56aa371be4b08b9a8d573568
+
+Cambodian Restaurant icon
+Cambodian Restaurant
+52e81612bcbc57f1066b7a03
+
+Chinese Restaurant icon
+Chinese Restaurant
+4bf58dd8d48988d145941735
+
+Anhui Restaurant icon
+Anhui Restaurant
+52af3a5e3cf9994f4e043bea
+
+Supported countries: CNHKMOMYTWSG
+
+Beijing Restaurant icon
+Beijing Restaurant
+52af3a723cf9994f4e043bec
+
+Supported countries: CNHKMOMYTWSGJP
+
+Cantonese Restaurant icon
+Cantonese Restaurant
+52af3a7c3cf9994f4e043bed
+
+Cha Chaan Teng icon
+Cha Chaan Teng
+58daa1558bbb0b01f18ec1d3
+
+Chinese Aristocrat Restaurant icon
+Chinese Aristocrat Restaurant
+52af3a673cf9994f4e043beb
+
+Supported countries: CNHKMOMYTWSG
+
+Chinese Breakfast Place icon
+Chinese Breakfast Place
+52af3a903cf9994f4e043bee
+
+Supported countries: CNHKMOMYTWSG
+
+Dim Sum Restaurant icon
+Dim Sum Restaurant
+4bf58dd8d48988d1f5931735
+
+Dongbei Restaurant icon
+Dongbei Restaurant
+52af3a9f3cf9994f4e043bef
+
+Supported countries: CNHKMOMYTWSGCAUS
+
+Fujian Restaurant icon
+Fujian Restaurant
+52af3aaa3cf9994f4e043bf0
+
+Supported countries: CNHKMOMYTWSGUSCA
+
+Guizhou Restaurant icon
+Guizhou Restaurant
+52af3ab53cf9994f4e043bf1
+
+Supported countries: CNHKMOMYTWSG
+
+Hainan Restaurant icon
+Hainan Restaurant
+52af3abe3cf9994f4e043bf2
+
+Supported countries: CNHKMOMYTWSG
+
+Hakka Restaurant icon
+Hakka Restaurant
+52af3ac83cf9994f4e043bf3
+
+Supported countries: CNHKMOMYTWSGUSCA
+
+Henan Restaurant icon
+Henan Restaurant
+52af3ad23cf9994f4e043bf4
+
+Supported countries: CNHKMOMYTWSG
+
+Hong Kong Restaurant icon
+Hong Kong Restaurant
+52af3add3cf9994f4e043bf5
+
+Supported countries: CNHKMOMYTWSG
+
+Huaiyang Restaurant icon
+Huaiyang Restaurant
+52af3af23cf9994f4e043bf7
+
+Supported countries: CNHKMOMYTWSG
+
+Hubei Restaurant icon
+Hubei Restaurant
+52af3ae63cf9994f4e043bf6
+
+Supported countries: CNHKMOMYTWSG
+
+Hunan Restaurant icon
+Hunan Restaurant
+52af3afc3cf9994f4e043bf8
+
+Supported countries: CNHKMOMYTWSGUSCA
+
+Imperial Restaurant icon
+Imperial Restaurant
+52af3b053cf9994f4e043bf9
+
+Supported countries: CNHKMOMYTWSG
+
+Jiangsu Restaurant icon
+Jiangsu Restaurant
+52af3b213cf9994f4e043bfa
+
+Supported countries: CNHKMOMYTWSG
+
+Jiangxi Restaurant icon
+Jiangxi Restaurant
+52af3b293cf9994f4e043bfb
+
+Supported countries: CNHKMOMYTWSG
+
+Macanese Restaurant icon
+Macanese Restaurant
+52af3b343cf9994f4e043bfc
+
+Supported countries: CNHKMOMYTWSG
+
+Manchu Restaurant icon
+Manchu Restaurant
+52af3b3b3cf9994f4e043bfd
+
+Supported countries: CNHKMOMYTWSG
+
+Peking Duck Restaurant icon
+Peking Duck Restaurant
+52af3b463cf9994f4e043bfe
+
+Supported countries: CNHKMOMYTWSGUSCA
+
+Shaanxi Restaurant icon
+Shaanxi Restaurant
+52af3b633cf9994f4e043c01
+
+Supported countries: CNHKMOMYTWSG
+
+Shandong Restaurant icon
+Shandong Restaurant
+52af3b513cf9994f4e043bff
+
+Supported countries: CNHKMOMYTWSG
+
+Shanghai Restaurant icon
+Shanghai Restaurant
+52af3b593cf9994f4e043c00
+
+Supported countries: CNHKMOMYTWSGUSCAJP
+
+Shanxi Restaurant icon
+Shanxi Restaurant
+52af3b6e3cf9994f4e043c02
+
+Supported countries: CNHKMOMYTWSG
+
+Szechuan Restaurant icon
+Szechuan Restaurant
+52af3b773cf9994f4e043c03
+
+Taiwanese Restaurant icon
+Taiwanese Restaurant
+52af3b813cf9994f4e043c04
+
+Supported countries: CNHKMOMYTWSGUSCAJPAU
+
+Tianjin Restaurant icon
+Tianjin Restaurant
+52af3b893cf9994f4e043c05
+
+Supported countries: CNHKMOMYTWSG
+
+Xinjiang Restaurant icon
+Xinjiang Restaurant
+52af3b913cf9994f4e043c06
+
+Supported countries: CNHKMOMYTWSGUSCA
+
+Yunnan Restaurant icon
+Yunnan Restaurant
+52af3b9a3cf9994f4e043c07
+
+Supported countries: CNHKMOMYTWSG
+
+Zhejiang Restaurant icon
+Zhejiang Restaurant
+52af3ba23cf9994f4e043c08
+
+Supported countries: CNHKMOMYTWSG
+
+Filipino Restaurant icon
+Filipino Restaurant
+4eb1bd1c3b7b55596b4a748f
+
+Himalayan Restaurant icon
+Himalayan Restaurant
+52e81612bcbc57f1066b79fb
+
+Hotpot Restaurant icon
+Hotpot Restaurant
+52af0bd33cf9994f4e043bdd
+
+Supported countries: CNHKMOMYTWSGUSCAJPTHVNKR
+
+Indonesian Restaurant icon
+Indonesian Restaurant
+4deefc054765f83613cdba6f
+
+Acehnese Restaurant icon
+Acehnese Restaurant
+52960eda3cf9994f4e043ac9
+
+Supported countries: ID
+
+Balinese Restaurant icon
+Balinese Restaurant
+52960eda3cf9994f4e043acb
+
+Supported countries: ID
+
+Betawinese Restaurant icon
+Betawinese Restaurant
+52960eda3cf9994f4e043aca
+
+Supported countries: ID
+
+Indonesian Meatball Place icon
+Indonesian Meatball Place
+52960eda3cf9994f4e043acc
+
+Supported countries: ID
+
+Javanese Restaurant icon
+Javanese Restaurant
+52960eda3cf9994f4e043ac7
+
+Supported countries: ID
+
+Manadonese Restaurant icon
+Manadonese Restaurant
+52960eda3cf9994f4e043ac8
+
+Supported countries: ID
+
+Padangnese Restaurant icon
+Padangnese Restaurant
+52960eda3cf9994f4e043ac5
+
+Supported countries: ID
+
+Sundanese Restaurant icon
+Sundanese Restaurant
+52960eda3cf9994f4e043ac6
+
+Supported countries: ID
+
+Japanese Restaurant icon
+Japanese Restaurant
+4bf58dd8d48988d111941735
+
+Donburi Restaurant icon
+Donburi Restaurant
+55a59bace4b013909087cb0c
+
+Supported countries: JP
+
+Japanese Curry Restaurant icon
+Japanese Curry Restaurant
+55a59bace4b013909087cb30
+
+Kaiseki Restaurant icon
+Kaiseki Restaurant
+55a59bace4b013909087cb21
+
+Supported countries: JP
+
+Kushikatsu Restaurant icon
+Kushikatsu Restaurant
+55a59bace4b013909087cb06
+
+Supported countries: JP
+
+Monjayaki Restaurant icon
+Monjayaki Restaurant
+55a59bace4b013909087cb1b
+
+Supported countries: JP
+
+Nabe Restaurant icon
+Nabe Restaurant
+55a59bace4b013909087cb1e
+
+Supported countries: JP
+
+Okonomiyaki Restaurant icon
+Okonomiyaki Restaurant
+55a59bace4b013909087cb18
+
+Supported countries: JP
+
+Ramen Restaurant icon
+Ramen Restaurant
+55a59bace4b013909087cb24
+
+Shabu-Shabu Restaurant icon
+Shabu-Shabu Restaurant
+55a59bace4b013909087cb15
+
+Soba Restaurant icon
+Soba Restaurant
+55a59bace4b013909087cb27
+
+Sukiyaki Restaurant icon
+Sukiyaki Restaurant
+55a59bace4b013909087cb12
+
+Supported countries: JP
+
+Sushi Restaurant icon
+Sushi Restaurant
+4bf58dd8d48988d1d2941735
+
+Takoyaki Place icon
+Takoyaki Place
+55a59bace4b013909087cb2d
+
+Supported countries: JP
+
+Tempura Restaurant icon
+Tempura Restaurant
+55a59a31e4b013909087cb00
+
+Supported countries: JP
+
+Tonkatsu Restaurant icon
+Tonkatsu Restaurant
+55a59af1e4b013909087cb03
+
+Supported countries: JP
+
+Udon Restaurant icon
+Udon Restaurant
+55a59bace4b013909087cb2a
+
+Unagi Restaurant icon
+Unagi Restaurant
+55a59bace4b013909087cb0f
+
+Supported countries: JP
+
+Wagashi Place icon
+Wagashi Place
+55a59bace4b013909087cb33
+
+Supported countries: JP
+
+Yakitori Restaurant icon
+Yakitori Restaurant
+55a59bace4b013909087cb09
+
+Supported countries: JP
+
+Yoshoku Restaurant icon
+Yoshoku Restaurant
+55a59bace4b013909087cb36
+
+Supported countries: JP
+
+Korean Restaurant icon
+Korean Restaurant
+4bf58dd8d48988d113941735
+
+Bossam/Jokbal Restaurant icon
+Bossam/Jokbal Restaurant
+56aa371be4b08b9a8d5734e4
+
+Supported countries: KR
+
+Bunsik Restaurant icon
+Bunsik Restaurant
+56aa371be4b08b9a8d5734f0
+
+Supported countries: KR
+
+Gukbap Restaurant icon
+Gukbap Restaurant
+56aa371be4b08b9a8d5734e7
+
+Supported countries: KR
+
+Janguh Restaurant icon
+Janguh Restaurant
+56aa371be4b08b9a8d5734ed
+
+Supported countries: KR
+
+Samgyetang Restaurant icon
+Samgyetang Restaurant
+56aa371be4b08b9a8d5734ea
+
+Supported countries: KR
+
+Malay Restaurant icon
+Malay Restaurant
+4bf58dd8d48988d156941735
+
+Mamak Restaurant icon
+Mamak Restaurant
+5ae9595eb77c77002c2f9f26
+
+Supported countries: MY
+
+Mongolian Restaurant icon
+Mongolian Restaurant
+4eb1d5724b900d56c88a45fe
+
+Noodle House icon
+Noodle House
+4bf58dd8d48988d1d1941735
+
+Satay Restaurant icon
+Satay Restaurant
+56aa371be4b08b9a8d57350e
+
+Thai Restaurant icon
+Thai Restaurant
+4bf58dd8d48988d149941735
+
+Som Tum Restaurant icon
+Som Tum Restaurant
+56aa371be4b08b9a8d573502
+
+Supported countries: TH
+
+Tibetan Restaurant icon
+Tibetan Restaurant
+52af39fb3cf9994f4e043be9
+
+Vietnamese Restaurant icon
+Vietnamese Restaurant
+4bf58dd8d48988d14a941735
